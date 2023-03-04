@@ -1,7 +1,7 @@
-import { Word } from "../types/Word";
+import { Word } from "../types/Word.ts";
 
-export const getProcessWords = (dicArray: Word[]) => {
-  return processedWords = dicArray.map((v) => {
+export const getProcessedWords = (dicArray: Word[]) => {
+  return dicArray.map((v) => {
     const meanings = v.mean
       .split("\n")
     const processedMeanings = meanings
