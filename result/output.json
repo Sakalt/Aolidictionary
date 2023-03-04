@@ -1,2888 +1,4331 @@
 [
   {
     "word": "人",
-    "meanings": [
-      "【名】人。人間。永球人。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人。人間。永球人。"
+      }
     ],
     "append": ""
   },
   {
     "word": "力",
-    "meanings": [
-      "【名】力。パワー。エネルギー。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "力。パワー。エネルギー。"
+      }
     ],
     "append": ""
   },
   {
     "word": "手",
-    "meanings": [
-      "【名】手。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "手。"
+      }
     ],
     "append": ""
   },
   {
     "word": "開手",
-    "meanings": [
-      "【名】手のひら。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "手のひら。"
+      }
     ],
     "append": ""
   },
   {
     "word": "我",
-    "meanings": [
-      "【代名】私。第一人称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "私。第一人称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "木",
-    "meanings": [
-      "【名】木。地面から生える大きな植物。",
-      "【名】陽教の五元素の一つ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "木。地面から生える大きな植物。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の五元素の一つ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "水",
-    "meanings": [
-      "【名】水。H2O。",
-      "【名】陽教の五元素の一つ。",
-      "【名】原子番号1(H)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "水。H2O。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の五元素の一つ。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号1(H)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "水丸",
-    "meanings": [
-      "【名】水滴。雫。しずく。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "水滴。雫。しずく。"
+      }
     ],
     "append": ""
   },
   {
     "word": "口",
-    "meanings": [
-      "【名】口。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "口。"
+      }
     ],
     "append": ""
   },
   {
     "word": "食",
-    "meanings": [
-      "【動】食べる。食事する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "食べる。食事する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "果",
-    "meanings": [
-      "【名】果物。フルーツ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "果物。フルーツ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "赤果",
-    "meanings": [
-      "【名】りんご。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "りんご。"
+      }
     ],
     "append": ""
   },
   {
     "word": "汝",
-    "meanings": [
-      "【代名】あなた。第二人称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "あなた。第二人称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "大",
-    "meanings": [
-      "【形】大きい。たくさんの。",
-      "【副】とても。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "大きい。たくさんの。"
+      },
+      {
+        "partOfSpeech": "副",
+        "explanation": "とても。"
+      }
     ],
     "append": ""
   },
   {
     "word": "小",
-    "meanings": [
-      "【形】小さい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "小さい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "衆",
-    "meanings": [
-      "【名】人々。",
-      "【代名】(人称代名詞に続けて)～たち。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人々。"
+      },
+      {
+        "partOfSpeech": "代名",
+        "explanation": "(人称代名詞に続けて)～たち。"
+      }
     ],
     "append": ""
   },
   {
     "word": "国",
-    "meanings": [
-      "【名】国。国家。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "国。国家。"
+      }
     ],
     "append": ""
   },
   {
     "word": "土",
-    "meanings": [
-      "【名】土。",
-      "【名】陽教の五元素の一つ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "土。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の五元素の一つ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "火",
-    "meanings": [
-      "【名】火。炎。",
-      "【名】陽教の五元素の一つ。",
-      "【名】原子番号8(O)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "火。炎。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の五元素の一つ。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号8(O)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "草",
-    "meanings": [
-      "【名】草。地面から生える短い用途のない植物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "草。地面から生える短い用途のない植物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "赤",
-    "meanings": [
-      "【名】赤色。",
-      "【形】赤い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "赤色。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "赤い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "日",
-    "meanings": [
-      "【名】灼陽。おひさま。",
-      "【名】1日。時間単位。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "灼陽。おひさま。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "1日。時間単位。"
+      }
     ],
     "append": ""
   },
   {
     "word": "天",
-    "meanings": [
-      "【名】天空。陽教において神が住まうとされる場所。",
-      "【名】陽教の神素。",
-      "【名】星。惑星や衛星、恒星などをまとめて指す言葉。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "天空。陽教において神が住まうとされる場所。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の神素。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "星。惑星や衛星、恒星などをまとめて指す言葉。"
+      }
     ],
     "append": ""
   },
   {
     "word": "日天",
-    "meanings": [
-      "【名】灼陽。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "灼陽。"
+      }
     ],
     "append": ""
   },
   {
     "word": "月天",
-    "meanings": [
-      "【名】永球月。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "永球月。"
+      }
     ],
     "append": ""
   },
   {
     "word": "気天",
-    "meanings": [
-      "【名】霞星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "霞星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "火天",
-    "meanings": [
-      "【名】焔星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "焔星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "大丸",
-    "meanings": [
-      "【名】永球。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "永球。"
+      }
     ],
     "append": ""
   },
   {
     "word": "水天",
-    "meanings": [
-      "【名】瀧星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "瀧星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "土天",
-    "meanings": [
-      "【名】穀星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "穀星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "木天",
-    "meanings": [
-      "【名】森星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "森星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "山天",
-    "meanings": [
-      "【名】山神星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "山神星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雲天",
-    "meanings": [
-      "【名】雲神星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雲神星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "氷天",
-    "meanings": [
-      "【名】氷神星。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "氷神星。"
+      }
     ],
     "append": ""
   },
   {
     "word": "天心",
-    "meanings": [
-      "【名】天気。気象。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "天気。気象。"
+      }
     ],
     "append": ""
   },
   {
     "word": "大天",
-    "meanings": [
-      "【名】宇宙。ユニバース。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "宇宙。ユニバース。"
+      }
     ],
     "append": ""
   },
   {
     "word": "天船",
-    "meanings": [
-      "【名】ロケット。宇宙船。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ロケット。宇宙船。"
+      }
     ],
     "append": ""
   },
   {
     "word": "青",
-    "meanings": [
-      "【名】青色。",
-      "【形】青い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "青色。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "青い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "去",
-    "meanings": [
-      "【助動】過去時制。～した。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "過去時制。～した。"
+      }
     ],
     "append": ""
   },
   {
     "word": "正",
-    "meanings": [
-      "【接】順接。なので。だから。",
-      "【形】正しい。意味の通った。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "接",
+        "explanation": "順接。なので。だから。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "正しい。意味の通った。"
+      }
     ],
     "append": ""
   },
   {
     "word": "是",
-    "meanings": [
-      "【動】コピュラ。～は～である。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "コピュラ。～は～である。"
+      }
     ],
     "append": ""
   },
   {
     "word": "月",
-    "meanings": [
-      "【動】永球月。おつきさま。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "永球月。おつきさま。"
+      }
     ],
     "append": ""
   },
   {
     "word": "一",
-    "meanings": [
-      "【数】1。いち。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "1。いち。"
+      }
     ],
     "append": ""
   },
   {
     "word": "二",
-    "meanings": [
-      "【数】2。に。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "2。に。"
+      }
     ],
     "append": ""
   },
   {
     "word": "三",
-    "meanings": [
-      "【数】3。さん。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "3。さん。"
+      }
     ],
     "append": ""
   },
   {
     "word": "四",
-    "meanings": [
-      "【数】4。よん。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "4。よん。"
+      }
     ],
     "append": ""
   },
   {
     "word": "五",
-    "meanings": [
-      "【数】5。ご。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "5。ご。"
+      }
     ],
     "append": ""
   },
   {
     "word": "言",
-    "meanings": [
-      "【名】言葉。言語。～語。",
-      "【動】話す。会話する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "言葉。言語。～語。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "話す。会話する。"
+      }
     ],
     "append": "【類】声。こちらは一人で呟くことや意味のない声を出すことを指すのに対し、言は二人以上で意味のある会話をすることを指す。"
   },
   {
     "word": "晴",
-    "meanings": [
-      "【名】晴れ空。雲の少ない空。",
-      "【動】晴れる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "晴れ空。雲の少ない空。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "晴れる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "海",
-    "meanings": [
-      "【名】海。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "海。"
+      }
     ],
     "append": ""
   },
   {
     "word": "皇",
-    "meanings": [
-      "【名】旭天。雰国の王。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "旭天。雰国の王。"
+      }
     ],
     "append": ""
   },
   {
     "word": "王",
-    "meanings": [
-      "【名】王。君主。雰国以外の君主。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "王。君主。雰国以外の君主。"
+      }
     ],
     "append": ""
   },
   {
     "word": "上",
-    "meanings": [
-      "【名】上。",
-      "【前置】～（時間）に。",
-      "【前置】～の上に。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "上。"
+      },
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～（時間）に。"
+      },
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の上に。"
+      }
     ],
     "append": ""
   },
   {
     "word": "下",
-    "meanings": [
-      "【名】下。",
-      "【前置】～の下に。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "下。"
+      },
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の下に。"
+      }
     ],
     "append": ""
   },
   {
     "word": "左",
-    "meanings": [
-      "【名】左。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "左。"
+      }
     ],
     "append": ""
   },
   {
     "word": "右",
-    "meanings": [
-      "【名】右。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "右。"
+      }
     ],
     "append": ""
   },
   {
     "word": "広",
-    "meanings": [
-      "【動】広げる。広がる。",
-      "【形】広い。2次元的に大きい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "広げる。広がる。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "広い。2次元的に大きい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "栄",
-    "meanings": [
-      "【名】雰。雰民族や雰天国を指す。",
-      "【動】栄える。繁栄する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰。雰民族や雰天国を指す。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "栄える。繁栄する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "栄国",
-    "meanings": [
-      "【名】雰国。雰天国。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国。雰天国。"
+      }
     ],
     "append": ""
   },
   {
     "word": "栄民",
-    "meanings": [
-      "【名】雰国の民。雰人。雰国人。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の民。雰人。雰国人。"
+      }
     ],
     "append": ""
   },
   {
     "word": "足",
-    "meanings": [
-      "【名】足。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "足。"
+      }
     ],
     "append": ""
   },
   {
     "word": "足下",
-    "meanings": [
-      "【名】足の裏。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "足の裏。"
+      }
     ],
     "append": ""
   },
   {
     "word": "行",
-    "meanings": [
-      "【動】（場所へ）行く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "（場所へ）行く。"
+      }
     ],
     "append": "【類】向。動詞で用いるときは、ある特定の場所ではなく方向に向かって進むことを表す。"
   },
   {
     "word": "目",
-    "meanings": [
-      "【名】目。眼球。",
-      "【動】見る。見渡す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "目。眼球。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "見る。見渡す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "之",
-    "meanings": [
-      "【名】これ。近称。近くにあるものを指す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "これ。近称。近くにあるものを指す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "在",
-    "meanings": [
-      "【前置】～（場所）で。へ。",
-      "【助動】～すること。動名詞。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～（場所）で。へ。"
+      },
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～すること。動名詞。"
+      }
     ],
     "append": ""
   },
   {
     "word": "居",
-    "meanings": [
-      "【動】ある。いる。存在する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "ある。いる。存在する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "持",
-    "meanings": [
-      "【動】持つ。所持する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "持つ。所持する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "内",
-    "meanings": [
-      "【前置】～の中で。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の中で。"
+      }
     ],
     "append": ""
   },
   {
     "word": "含",
-    "meanings": [
-      "【助】～の。所有を表す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助",
+        "explanation": "～の。所有を表す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "今",
-    "meanings": [
-      "【名】今。現在。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "今。現在。"
+      }
     ],
     "append": ""
   },
   {
     "word": "時",
-    "meanings": [
-      "【名】（時間単位）～時。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（時間単位）～時。"
+      }
     ],
     "append": ""
   },
   {
     "word": "先",
-    "meanings": [
-      "【助動】未来時制。～だろう。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "未来時制。～だろう。"
+      }
     ],
     "append": ""
   },
   {
     "word": "神",
-    "meanings": [
-      "【名】神。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "神。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雨",
-    "meanings": [
-      "【名】雨。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雨。"
+      }
     ],
     "append": ""
   },
   {
     "word": "風",
-    "meanings": [
-      "【名】風。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "風。"
+      }
     ],
     "append": ""
   },
   {
     "word": "風音",
-    "meanings": [
-      "【名】風の音。風切り音。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "風の音。風切り音。"
+      }
     ],
     "append": ""
   },
   {
     "word": "飛",
-    "meanings": [
-      "【動】飛ぶ。地面から離れた状態で移動する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "飛ぶ。地面から離れた状態で移動する。"
+      }
     ],
     "append": "【類】跳。動詞で用いるときは、飛行ではなくジャンプ・跳躍することを指す。"
   },
   {
     "word": "場",
-    "meanings": [
-      "【名】場所。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "場所。"
+      }
     ],
     "append": ""
   },
   {
     "word": "其",
-    "meanings": [
-      "【名】それ。文章中で以前に出てきた概念を指す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "それ。文章中で以前に出てきた概念を指す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "彼",
-    "meanings": [
-      "【名】あれ。遠称。比較的遠くにあるものを指す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "あれ。遠称。比較的遠くにあるものを指す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "山",
-    "meanings": [
-      "【名】山。地面が大きく盛り上がった地形。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "山。地面が大きく盛り上がった地形。"
+      }
     ],
     "append": "【類】丘。山ほど大きくない少し盛り上がった地形を指す。"
   },
   {
     "word": "心",
-    "meanings": [
-      "【名】心。感情。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "心。感情。"
+      }
     ],
     "append": ""
   },
   {
     "word": "声心",
-    "meanings": [
-      "【名】ぼそっと呟く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ぼそっと呟く。"
+      }
     ],
     "append": ""
   },
   {
     "word": "思",
-    "meanings": [
-      "【動】思う。考える。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "思う。考える。"
+      }
     ],
     "append": ""
   },
   {
     "word": "油",
-    "meanings": [
-      "【名】油。燃える液体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "油。燃える液体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "燃",
-    "meanings": [
-      "【動】燃える。燃焼する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "燃える。燃焼する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "家",
-    "meanings": [
-      "【名】建物。建造物。家。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "建物。建造物。家。"
+      }
     ],
     "append": ""
   },
   {
     "word": "人家",
-    "meanings": [
-      "【名】一軒家。人が住む家。民家。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "一軒家。人が住む家。民家。"
+      }
     ],
     "append": ""
   },
   {
     "word": "衆家",
-    "meanings": [
-      "【名】マンション。アパート。集合住宅。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "マンション。アパート。集合住宅。"
+      }
     ],
     "append": ""
   },
   {
     "word": "造家",
-    "meanings": [
-      "【名】工場。工房。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "工場。工房。"
+      }
     ],
     "append": ""
   },
   {
     "word": "報家",
-    "meanings": [
-      "【名】学校。校舎。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "学校。校舎。"
+      }
     ],
     "append": ""
   },
   {
     "word": "現",
-    "meanings": [
-      "【助動】進行相。～している。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "進行相。～している。"
+      }
     ],
     "append": ""
   },
   {
     "word": "光",
-    "meanings": [
-      "【名】光。",
-      "【動】光る。輝く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "光。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "光る。輝く。"
+      }
     ],
     "append": ""
   },
   {
     "word": "白",
-    "meanings": [
-      "【名】白色。",
-      "【形】白い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "白色。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "白い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "昼",
-    "meanings": [
-      "【名】昼。1日のうち、太陽が高く昇る時間帯。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "昼。1日のうち、太陽が高く昇る時間帯。"
+      }
     ],
     "append": ""
   },
   {
     "word": "夜",
-    "meanings": [
-      "【名】夜。1日のうち、太陽が完全に沈み暗くなる時間帯。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "夜。1日のうち、太陽が完全に沈み暗くなる時間帯。"
+      }
     ],
     "append": ""
   },
   {
     "word": "丸",
-    "meanings": [
-      "【名】丸いもの。球。ボール。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "丸いもの。球。ボール。"
+      }
     ],
     "append": ""
   },
   {
     "word": "気",
-    "meanings": [
-      "【名】気体。ガス。目に見えない、空間を満たしているもの。",
-      "【名】陽教の五元素の一つ。",
-      "【名】原子番号7(N)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "気体。ガス。目に見えない、空間を満たしているもの。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教の五元素の一つ。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号7(N)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "気船",
-    "meanings": [
-      "【名】気球。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "気球。"
+      }
     ],
     "append": ""
   },
   {
     "word": "気丸",
-    "meanings": [
-      "【名】風船。バルーン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "風船。バルーン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "世",
-    "meanings": [
-      "【名】世界。ワールド。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "世界。ワールド。"
+      }
     ],
     "append": ""
   },
   {
     "word": "筆",
-    "meanings": [
-      "【名】筆。雰字文化圏で伝統的に使われる筆記用具。",
-      "【名】ペン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "筆。雰字文化圏で伝統的に使われる筆記用具。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "ペン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "石筆",
-    "meanings": [
-      "【名】鉛筆。ペンシル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "鉛筆。ペンシル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "丸筆",
-    "meanings": [
-      "【名】ボールペン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ボールペン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "筆杯",
-    "meanings": [
-      "【名】ペン立て。筆立て。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ペン立て。筆立て。"
+      }
     ],
     "append": ""
   },
   {
     "word": "書",
-    "meanings": [
-      "【動】書く。記す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "書く。記す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "記",
-    "meanings": [
-      "【名】書かれたもの。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "書かれたもの。"
+      }
     ],
     "append": ""
   },
   {
     "word": "心記",
-    "meanings": [
-      "【名】メモ。書き置き。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "メモ。書き置き。"
+      }
     ],
     "append": ""
   },
   {
     "word": "女",
-    "meanings": [
-      "【名】女。女性。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "女。女性。"
+      }
     ],
     "append": ""
   },
   {
     "word": "侶",
-    "meanings": [
-      "【代名】彼。男性三人称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "彼。男性三人称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "媛",
-    "meanings": [
-      "【代名】彼女。女性三人称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "彼女。女性三人称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "状",
-    "meanings": [
-      "【助】名詞を修飾する。～な。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助",
+        "explanation": "名詞を修飾する。～な。"
+      }
     ],
     "append": ""
   },
   {
     "word": "歩",
-    "meanings": [
-      "【動】歩く。ゆっくり移動する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "歩く。ゆっくり移動する。"
+      }
     ],
     "append": "【類】走。動詞で用いるときは走る（下半身を使い早く移動する）ことを指す。"
   },
   {
     "word": "整",
-    "meanings": [
-      "【動】きれいにする。整える。",
-      "【形】清潔な。整った。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "きれいにする。整える。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "清潔な。整った。"
+      }
     ],
     "append": ""
   },
   {
     "word": "倫",
-    "meanings": [
-      "【名】旭天に使う敬称。陛下。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "旭天に使う敬称。陛下。"
+      }
     ],
     "append": ""
   },
   {
     "word": "民",
-    "meanings": [
-      "【名】国民。民衆。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "国民。民衆。"
+      }
     ],
     "append": ""
   },
   {
     "word": "眠",
-    "meanings": [
-      "【動】眠る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "眠る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "眠巾",
-    "meanings": [
-      "【名】布団。毛布。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "布団。毛布。"
+      }
     ],
     "append": ""
   },
   {
     "word": "下巾",
-    "meanings": [
-      "【名】カーペット。絨毯。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "カーペット。絨毯。"
+      }
     ],
     "append": ""
   },
   {
     "word": "眠下巾",
-    "meanings": [
-      "【名】敷布団。マットレス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "敷布団。マットレス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "頭",
-    "meanings": [
-      "【名】頭。体の中で首より上の部分。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "頭。体の中で首より上の部分。"
+      }
     ],
     "append": ""
   },
   {
     "word": "頭椅",
-    "meanings": [
-      "【名】枕。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "枕。"
+      }
     ],
     "append": ""
   },
   {
     "word": "向",
-    "meanings": [
-      "【動】向く。頭を向ける。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "向く。頭を向ける。"
+      }
     ],
     "append": ""
   },
   {
     "word": "刈",
-    "meanings": [
-      "【動】草を刈る。剪定する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "草を刈る。剪定する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "園",
-    "meanings": [
-      "【名】管理され整えられている野外施設。公園や運動場など。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "管理され整えられている野外施設。公園や運動場など。"
+      }
     ],
     "append": ""
   },
   {
     "word": "遊園",
-    "meanings": [
-      "【名】公園。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "公園。"
+      }
     ],
     "append": ""
   },
   {
     "word": "都",
-    "meanings": [
-      "【名】雰国の首都以外の都市。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の首都以外の都市。"
+      }
     ],
     "append": ""
   },
   {
     "word": "京",
-    "meanings": [
-      "【名】雰国の首都。現代では天京を指す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の首都。現代では天京を指す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "喜",
-    "meanings": [
-      "【動】喜ぶ。～を喜ぶ。",
-      "【形】おめでたい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "喜ぶ。～を喜ぶ。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "おめでたい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "喜汝",
-    "meanings": [
-      "【感】こんにちは。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "こんにちは。"
+      }
     ],
     "append": ""
   },
   {
     "word": "喜旭",
-    "meanings": [
-      "【感】おはようございます。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "おはようございます。"
+      }
     ],
     "append": ""
   },
   {
     "word": "喜夜",
-    "meanings": [
-      "【感】こんばんは。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "こんばんは。"
+      }
     ],
     "append": ""
   },
   {
     "word": "来",
-    "meanings": [
-      "【動】来る。自分から遠い場所から近い場所に移動する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "来る。自分から遠い場所から近い場所に移動する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "字",
-    "meanings": [
-      "【名】文字。言葉を書き表した記号。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "文字。言葉を書き表した記号。"
+      }
     ],
     "append": ""
   },
   {
     "word": "字盤",
-    "meanings": [
-      "【名】キーボード。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "キーボード。"
+      }
     ],
     "append": ""
   },
   {
     "word": "欲",
-    "meanings": [
-      "【助動】～したい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～したい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "要",
-    "meanings": [
-      "【助動】～すべき。～したほうがいい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～すべき。～したほうがいい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "刃",
-    "meanings": [
-      "【名】刃物。刀や包丁、ナイフ、ハサミなど物を切るための道具。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "刃物。刀や包丁、ナイフ、ハサミなど物を切るための道具。"
+      }
     ],
     "append": ""
   },
   {
     "word": "交刃",
-    "meanings": [
-      "【名】ハサミ。鋏。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ハサミ。鋏。"
+      }
     ],
     "append": ""
   },
   {
     "word": "制",
-    "meanings": [
-      "【助動】～しろ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～しろ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷",
-    "meanings": [
-      "【名】雷。稲妻。",
-      "【名】電気のこと。電気にかかわる熟語につく。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雷。稲妻。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "電気のこと。電気にかかわる熟語につく。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷記",
-    "meanings": [
-      "【名】ウェブページ。サイト。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ウェブページ。サイト。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷紙",
-    "meanings": [
-      "【名】ファイル。コンピューター上で扱うデータのまとまり。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ファイル。コンピューター上で扱うデータのまとまり。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷脳",
-    "meanings": [
-      "【名】コンピュータ。電子計算機。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "コンピュータ。電子計算機。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷画",
-    "meanings": [
-      "【名】ディスプレイ。モニター。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ディスプレイ。モニター。"
+      }
     ],
     "append": ""
   },
   {
     "word": "脳機",
-    "meanings": [
-      "【名】PC。パソコン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "PC。パソコン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "帳脳",
-    "meanings": [
-      "【名】ノートパソコン。ラップトップ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ノートパソコン。ラップトップ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "机脳",
-    "meanings": [
-      "【名】デスクトップパソコン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "デスクトップパソコン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "行言機",
-    "meanings": [
-      "【名】携帯電話。持ち運んで電話をすることができる機械。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "携帯電話。持ち運んで電話をすることができる機械。"
+      }
     ],
     "append": ""
   },
   {
     "word": "行言",
-    "meanings": [
-      "【名】行言機の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "行言機の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "手脳",
-    "meanings": [
-      "【名】スマートフォン。スマホ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "スマートフォン。スマホ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷言",
-    "meanings": [
-      "【名】プログラミング言語。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "プログラミング言語。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷言記",
-    "meanings": [
-      "【名】コード。プログラム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "コード。プログラム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷機",
-    "meanings": [
-      "【名】電子機器。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電子機器。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷光",
-    "meanings": [
-      "【名】（電気式）ライト。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（電気式）ライト。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷透",
-    "meanings": [
-      "【名】稲妻。稲光。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "稲妻。稲光。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷楽",
-    "meanings": [
-      "【名】コンピューターゲーム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "コンピューターゲーム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "生",
-    "meanings": [
-      "【動】生まれる。生える。生物などが誕生する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "生まれる。生える。生物などが誕生する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "脳",
-    "meanings": [
-      "【名】脳。頭蓋骨の内部にある臓器。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "脳。頭蓋骨の内部にある臓器。"
+      }
     ],
     "append": ""
   },
   {
     "word": "臓",
-    "meanings": [
-      "【名】臓器。人間の体の中の器官。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "臓器。人間の体の中の器官。"
+      }
     ],
     "append": ""
   },
   {
     "word": "氷",
-    "meanings": [
-      "【名】氷。",
-      "【動】凍る。凍結する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "氷。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "凍る。凍結する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雲",
-    "meanings": [
-      "【名】雲。空に浮かぶ白いもくもく。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雲。空に浮かぶ白いもくもく。"
+      }
     ],
     "append": ""
   },
   {
     "word": "門",
-    "meanings": [
-      "【名】扉。ドア。門。空間や敷地同士をを移動するための通路。",
-      "【動】変わる。変える。変化する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "扉。ドア。門。空間や敷地同士をを移動するための通路。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "変わる。変える。変化する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "門圧",
-    "meanings": [
-      "【名】ボタン。スイッチ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ボタン。スイッチ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷門圧",
-    "meanings": [
-      "【名】電源スイッチ。ON/OFFスイッチ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電源スイッチ。ON/OFFスイッチ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "領門",
-    "meanings": [
-      "【名】門。扉。建物や敷地の入り口の仕切り。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "門。扉。建物や敷地の入り口の仕切り。"
+      }
     ],
     "append": ""
   },
   {
     "word": "開",
-    "meanings": [
-      "【名】開く。通れなかった部分が通れるようになる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "開く。通れなかった部分が通れるようになる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "領",
-    "meanings": [
-      "【名】敷地。土地。",
-      "【動】（土地を）領有する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "敷地。土地。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "（土地を）領有する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "紙",
-    "meanings": [
-      "【名】紙。文字を書くことができる薄い媒体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "紙。文字を書くことができる薄い媒体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "書帳",
-    "meanings": [
-      "【名】ノートブック。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ノートブック。"
+      }
     ],
     "append": ""
   },
   {
     "word": "糸",
-    "meanings": [
-      "【名】繊維。また、繊維を撚ってできる糸。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "繊維。また、繊維を撚ってできる糸。"
+      }
     ],
     "append": ""
   },
   {
     "word": "終",
-    "meanings": [
-      "【助動】終止相。～し終える。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "終止相。～し終える。"
+      }
     ],
     "append": ""
   },
   {
     "word": "網",
-    "meanings": [
-      "【名】網。糸を間隔を空けて配置した薄い物体。また、それに似た形状のもの。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "網。糸を間隔を空けて配置した薄い物体。また、それに似た形状のもの。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷網",
-    "meanings": [
-      "【名】インターネット。ウェブ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "インターネット。ウェブ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "衆網",
-    "meanings": [
-      "【名】社会。人々が活動を行うための集団。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "社会。人々が活動を行うための集団。"
+      }
     ],
     "append": ""
   },
   {
     "word": "印",
-    "meanings": [
-      "【名】ハンコ。スタンプ。インクを付けて押すことで転写する筆記具。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ハンコ。スタンプ。インクを付けて押すことで転写する筆記具。"
+      }
     ],
     "append": ""
   },
   {
     "word": "政",
-    "meanings": [
-      "【名】政治。政府。",
-      "【動】統治する。治める。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "政治。政府。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "統治する。治める。"
+      }
     ],
     "append": ""
   },
   {
     "word": "虫",
-    "meanings": [
-      "【名】昆虫。虫。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "昆虫。虫。"
+      }
     ],
     "append": ""
   },
   {
     "word": "虫痘",
-    "meanings": [
-      "【名】虫刺され。虫などに刺されてできる腫れ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "虫刺され。虫などに刺されてできる腫れ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "小虫",
-    "meanings": [
-      "【名】細菌。菌類。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "細菌。菌類。"
+      }
     ],
     "append": ""
   },
   {
     "word": "病虫",
-    "meanings": [
-      "【名】ウイルス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ウイルス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "蛮",
-    "meanings": [
-      "【形】野生の。野蛮な。愚かな。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "野生の。野蛮な。愚かな。"
+      }
     ],
     "append": ""
   },
   {
     "word": "使",
-    "meanings": [
-      "【動】使う。使用する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "使う。使用する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "不",
-    "meanings": [
-      "【助動】～しない。",
-      "【形】～でない。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～しない。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "～でない。"
+      }
     ],
     "append": ""
   },
   {
     "word": "竹",
-    "meanings": [
-      "【名】竹。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "竹。"
+      }
     ],
     "append": ""
   },
   {
     "word": "六",
-    "meanings": [
-      "【数】6。ろく。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "6。ろく。"
+      }
     ],
     "append": ""
   },
   {
     "word": "好",
-    "meanings": [
-      "【動】好く。好む。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "好く。好む。"
+      }
     ],
     "append": ""
   },
   {
     "word": "造",
-    "meanings": [
-      "【動】作る。造る。創る。生み出す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "作る。造る。創る。生み出す。"
+      }
     ],
     "append": "【類】似たものに「創」があるが、こちらは自発的に作られることを指す。一方、「造」は能動的に作ることを指す。また、「生」は生物などが誕生することを指す。"
   },
   {
     "word": "道",
-    "meanings": [
-      "【名】道。道路。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "道。道路。"
+      }
     ],
     "append": ""
   },
   {
     "word": "元",
-    "meanings": [
-      "【前置】～から。時間や場所などの始まり。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～から。時間や場所などの始まり。"
+      }
     ],
     "append": ""
   },
   {
     "word": "獣",
-    "meanings": [
-      "【名】動物。特に陸生哺乳類を指す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "動物。特に陸生哺乳類を指す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "獣声",
-    "meanings": [
-      "【名】動物の鳴き声。",
-      "【名】うめき声。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "動物の鳴き声。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "うめき声。"
+      }
     ],
     "append": ""
   },
   {
     "word": "肉",
-    "meanings": [
-      "【名】肉。（主に）食用にする生物の組織。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "肉。（主に）食用にする生物の組織。"
+      }
     ],
     "append": ""
   },
   {
     "word": "周",
-    "meanings": [
-      "【前置】～の周辺で。",
-      "【名】周り。周辺。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の周辺で。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "周り。周辺。"
+      }
     ],
     "append": ""
   },
   {
     "word": "回",
-    "meanings": [
-      "【動】回転する。回る。",
-      "【接】逆接。しかし。が。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "回転する。回る。"
+      },
+      {
+        "partOfSpeech": "接",
+        "explanation": "逆接。しかし。が。"
+      }
     ],
     "append": ""
   },
   {
     "word": "年",
-    "meanings": [
-      "【名】年。季節が一周する時間単位。永球の公転周期。",
-      "【名】年齢。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "年。季節が一周する時間単位。永球の公転周期。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "年齢。"
+      }
     ],
     "append": ""
   },
   {
     "word": "男",
-    "meanings": [
-      "【名】男。男性。オス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "男。男性。オス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "材",
-    "meanings": [
-      "【名】素材。材料。",
-      "【名】元素名につく接尾語。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "素材。材料。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "元素名につく接尾語。"
+      }
     ],
     "append": ""
   },
   {
     "word": "狩",
-    "meanings": [
-      "【動】狩る。（動物を）殺す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "狩る。（動物を）殺す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "豚",
-    "meanings": [
-      "【名】豚。おいしい肉が取れる家畜。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "豚。おいしい肉が取れる家畜。"
+      }
     ],
     "append": ""
   },
   {
     "word": "死",
-    "meanings": [
-      "【動】死ぬ。亡くなる。",
-      "【形】死んだ。亡くなった。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "死ぬ。亡くなる。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "死んだ。亡くなった。"
+      }
     ],
     "append": ""
   },
   {
     "word": "筋",
-    "meanings": [
-      "【名】筋。支え。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "筋。支え。"
+      }
     ],
     "append": ""
   },
   {
     "word": "遠",
-    "meanings": [
-      "【形】遠い。遠くの。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "遠い。遠くの。"
+      }
     ],
     "append": ""
   },
   {
     "word": "灰",
-    "meanings": [
-      "【名】灰。物が燃えた後の残骸。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "灰。物が燃えた後の残骸。"
+      }
     ],
     "append": ""
   },
   {
     "word": "炭",
-    "meanings": [
-      "【名】炭。黒い固体の燃料。",
-      "【名】原子番号6(C)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "炭。黒い固体の燃料。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号6(C)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "二炭火",
-    "meanings": [
-      "【名】CO2。二酸化炭素の化学式。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "CO2。二酸化炭素の化学式。"
+      }
     ],
     "append": ""
   },
   {
     "word": "三水気",
-    "meanings": [
-      "【名】NH3。アンモニアの化学式。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "NH3。アンモニアの化学式。"
+      }
     ],
     "append": ""
   },
   {
     "word": "塩",
-    "meanings": [
-      "【名】塩。食塩。NaCl。",
-      "【名】原子番号17(Cl)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "塩。食塩。NaCl。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号17(Cl)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "稲",
-    "meanings": [
-      "【名】稲。稲穂。米がたくさんついた植物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "稲。稲穂。米がたくさんついた植物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "米",
-    "meanings": [
-      "【名】米。大東州で主に食べられる穀物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "米。大東州で主に食べられる穀物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粉",
-    "meanings": [
-      "【名】粉。粉末。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "粉。粉末。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粒",
-    "meanings": [
-      "【名】粒。単数の小さい物体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "粒。単数の小さい物体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "小粒",
-    "meanings": [
-      "【名】原子。アトム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子。アトム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "立",
-    "meanings": [
-      "【動】立つ。支えなしで直立する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "立つ。支えなしで直立する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "基",
-    "meanings": [
-      "【名】もと。一番下の部分。根底。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "もと。一番下の部分。根底。"
+      }
     ],
     "append": ""
   },
   {
     "word": "基材",
-    "meanings": [
-      "【名】元素。原子の種類。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "元素。原子の種類。"
+      }
     ],
     "append": ""
   },
   {
     "word": "恨",
-    "meanings": [
-      "【動】恨む。憎む。対象に嫌な感情を持つ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "恨む。憎む。対象に嫌な感情を持つ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "等",
-    "meanings": [
-      "【形】同じ。同一の。等しい。均等な。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "同じ。同一の。等しい。均等な。"
+      }
     ],
     "append": ""
   },
   {
     "word": "伴",
-    "meanings": [
-      "【前置】～と。～と一緒に。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～と。～と一緒に。"
+      }
     ],
     "append": ""
   },
   {
     "word": "遊",
-    "meanings": [
-      "【動】ふらふらする。遊ぶ。",
-      "【形】定まらない。ふらふらした。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "ふらふらする。遊ぶ。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "定まらない。ふらふらした。"
+      }
     ],
     "append": ""
   },
   {
     "word": "遊心",
-    "meanings": [
-      "【動】退屈する。暇になる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "退屈する。暇になる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "長",
-    "meanings": [
-      "【形】長い。",
-      "【名】「かえる」の音写。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "長い。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "「かえる」の音写。"
+      }
     ],
     "append": ""
   },
   {
     "word": "脚",
-    "meanings": [
-      "【名】脚。足首から股までの下半身。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "脚。足首から股までの下半身。"
+      }
     ],
     "append": ""
   },
   {
     "word": "走",
-    "meanings": [
-      "【動】走る。速く移動する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "走る。速く移動する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "跳",
-    "meanings": [
-      "【動】ジャンプする。跳ぶ。跳躍する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "ジャンプする。跳ぶ。跳躍する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "越",
-    "meanings": [
-      "【動】横断する。越える。超える。",
-      "【前置】～の向こうに。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "横断する。越える。超える。"
+      },
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の向こうに。"
+      }
     ],
     "append": ""
   },
   {
     "word": "乗",
-    "meanings": [
-      "【動】～の上に乗る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "～の上に乗る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "兵",
-    "meanings": [
-      "【名】兵士。軍人。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "兵士。軍人。"
+      }
     ],
     "append": ""
   },
   {
     "word": "軍",
-    "meanings": [
-      "【名】軍隊。軍。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "軍隊。軍。"
+      }
     ],
     "append": ""
   },
   {
     "word": "戦",
-    "meanings": [
-      "【動】戦う。戦闘する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "戦う。戦闘する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "戦船",
-    "meanings": [
-      "【名】軍艦。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "軍艦。"
+      }
     ],
     "append": ""
   },
   {
     "word": "皿",
-    "meanings": [
-      "【名】皿。料理を盛る平たい食器。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "皿。料理を盛る平たい食器。"
+      }
     ],
     "append": ""
   },
   {
     "word": "米皿",
-    "meanings": [
-      "【名】茶碗。ご飯を盛る食器。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "茶碗。ご飯を盛る食器。"
+      }
     ],
     "append": ""
   },
   {
     "word": "盤",
-    "meanings": [
-      "【名】ボード。何かを行う土台。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ボード。何かを行う土台。"
+      }
     ],
     "append": ""
   },
   {
     "word": "軍盤",
-    "meanings": [
-      "【名】軍盤。雰国で広く遊ばれる伝統的なボードゲーム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "軍盤。雰国で広く遊ばれる伝統的なボードゲーム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "盤戦",
-    "meanings": [
-      "【名】ボードゲーム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ボードゲーム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "数",
-    "meanings": [
-      "【名】数。数字。ナンバー。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "数。数字。ナンバー。"
+      }
     ],
     "append": ""
   },
   {
     "word": "体",
-    "meanings": [
-      "【名】体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "熱",
-    "meanings": [
-      "【名】熱。温度。熱量。",
-      "【形】熱い。温度が非常に高い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "熱。温度。熱量。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "熱い。温度が非常に高い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "熱病",
-    "meanings": [
-      "【名】風邪。熱。様々な感染症を纏めて言う言葉。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "風邪。熱。様々な感染症を纏めて言う言葉。"
+      }
     ],
     "append": ""
   },
   {
     "word": "川",
-    "meanings": [
-      "【名】川。河川。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "川。河川。"
+      }
     ],
     "append": ""
   },
   {
     "word": "丘",
-    "meanings": [
-      "【名】少し盛り上がった地形。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "少し盛り上がった地形。"
+      }
     ],
     "append": "【類】山。こちらは丘よりも高い地形を指す。"
   },
   {
     "word": "交",
-    "meanings": [
-      "【動】交わる。交差する。",
-      "【名】表。図表。テーブル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "交わる。交差する。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "表。図表。テーブル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "天交",
-    "meanings": [
-      "【名】カレンダー。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "カレンダー。"
+      }
     ],
     "append": ""
   },
   {
     "word": "画交",
-    "meanings": [
-      "【名】グラフ。統計図表。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "グラフ。統計図表。"
+      }
     ],
     "append": ""
   },
   {
     "word": "巾",
-    "meanings": [
-      "【名】布。糸を織って作った薄い素材。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "布。糸を織って作った薄い素材。"
+      }
     ],
     "append": ""
   },
   {
     "word": "旭",
-    "meanings": [
-      "【名】日の出。",
-      "【動】太陽が出る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "日の出。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "太陽が出る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "旭天",
-    "meanings": [
-      "【名】旭天。雰国の王。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "旭天。雰国の王。"
+      }
     ],
     "append": ""
   },
   {
     "word": "代",
-    "meanings": [
-      "【名】世代。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "世代。"
+      }
     ],
     "append": ""
   },
   {
     "word": "姉",
-    "meanings": [
-      "【名】姉。年齢が上の女兄弟。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "姉。年齢が上の女兄弟。"
+      }
     ],
     "append": ""
   },
   {
     "word": "隣",
-    "meanings": [
-      "【前置】～の隣に。～のそばに。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の隣に。～のそばに。"
+      }
     ],
     "append": ""
   },
   {
     "word": "座",
-    "meanings": [
-      "【動】座る。地面に腰を下ろす。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "座る。地面に腰を下ろす。"
+      }
     ],
     "append": "【類】席。こちらは椅子など地面以外に腰を下ろすことを指す。"
   },
   {
     "word": "做",
-    "meanings": [
-      "【動】する。行う。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "する。行う。"
+      }
     ],
     "append": ""
   },
   {
     "word": "汝去做",
-    "meanings": [
-      "【感】おめでとう。祝いの挨拶。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "おめでとう。祝いの挨拶。"
+      }
     ],
     "append": ""
   },
   {
     "word": "画",
-    "meanings": [
-      "【名】絵。アート。絵画。図画。",
-      "【動】描く。えがく。図や絵を描く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "絵。アート。絵画。図画。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "描く。えがく。図や絵を描く。"
+      }
     ],
     "append": ""
   },
   {
     "word": "目画",
-    "meanings": [
-      "【名】写真。画像。",
-      "【動】撮る。写真を撮る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "写真。画像。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "撮る。写真を撮る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "目機",
-    "meanings": [
-      "【名】写真機。カメラ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "写真機。カメラ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "能",
-    "meanings": [
-      "【助動】～できる。可能を表す。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～できる。可能を表す。"
+      }
     ],
     "append": ""
   },
   {
     "word": "透",
-    "meanings": [
-      "【形】眩しい。輝く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "眩しい。輝く。"
+      }
     ],
     "append": ""
   },
   {
     "word": "暁",
-    "meanings": [
-      "【名】眩しい太陽。陽光。",
-      "【名】原子番号2(He)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "眩しい太陽。陽光。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号2(He)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "暁気",
-    "meanings": [
-      "【名】ヘリウムガス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ヘリウムガス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "拠",
-    "meanings": [
-      "【前置】～よりも。比較に使う。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～よりも。比較に使う。"
+      }
     ],
     "append": ""
   },
   {
     "word": "仁",
-    "meanings": [
-      "【名】相手に使う敬称。～さん。～様。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "相手に使う敬称。～さん。～様。"
+      }
     ],
     "append": ""
   },
   {
     "word": "地",
-    "meanings": [
-      "【名】地面。大地。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "地面。大地。"
+      }
     ],
     "append": ""
   },
   {
     "word": "昇",
-    "meanings": [
-      "【動】昇る。上がる。持ち上がる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "昇る。上がる。持ち上がる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "追",
-    "meanings": [
-      "【接】～して。～し。動詞の並列。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "接",
+        "explanation": "～して。～し。動詞の並列。"
+      }
     ],
     "append": ""
   },
   {
     "word": "圧",
-    "meanings": [
-      "【動】押す。プレスする。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "押す。プレスする。"
+      }
     ],
     "append": ""
   },
   {
     "word": "啊",
-    "meanings": [
-      "【感】あ。あー。驚きや感嘆の声。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "あ。あー。驚きや感嘆の声。"
+      }
     ],
     "append": ""
   },
   {
     "word": "央",
-    "meanings": [
-      "【前置】～の中心で。～の中央で。",
-      "【形】～の中心。～の真ん中。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "前置",
+        "explanation": "～の中心で。～の中央で。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "～の中心。～の真ん中。"
+      }
     ],
     "append": ""
   },
   {
     "word": "静",
-    "meanings": [
-      "【形】静かな。動かない。落ち着いた。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "静かな。動かない。落ち着いた。"
+      }
     ],
     "append": ""
   },
   {
     "word": "僻",
-    "meanings": [
-      "【形】人が少ない。無人の。閑静な。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "人が少ない。無人の。閑静な。"
+      }
     ],
     "append": ""
   },
   {
     "word": "森",
-    "meanings": [
-      "【名】森。林。木がたくさん生えている場所。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "森。林。木がたくさん生えている場所。"
+      }
     ],
     "append": ""
   },
   {
     "word": "万",
-    "meanings": [
-      "【数】10000[12]。1万。20736[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "10000[12]。1万。20736[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "七",
-    "meanings": [
-      "【数】7[12]。なな。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "7[12]。なな。"
+      }
     ],
     "append": ""
   },
   {
     "word": "八",
-    "meanings": [
-      "【数】8[12]。はち。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "8[12]。はち。"
+      }
     ],
     "append": ""
   },
   {
     "word": "九",
-    "meanings": [
-      "【数】9[12]。きゅう。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "9[12]。きゅう。"
+      }
     ],
     "append": ""
   },
   {
     "word": "零",
-    "meanings": [
-      "【数】0[12]。ぜろ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "0[12]。ぜろ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "十",
-    "meanings": [
-      "【数】10[12]。じゅう。12[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "10[12]。じゅう。12[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "百",
-    "meanings": [
-      "【数】100[12]。ひゃく。144[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "100[12]。ひゃく。144[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "千",
-    "meanings": [
-      "【数】1000[12]。せん。1728[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "1000[12]。せん。1728[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "刻",
-    "meanings": [
-      "【名】雰国の計時単位。一刻。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の計時単位。一刻。"
+      }
     ],
     "append": ""
   },
   {
     "word": "分",
-    "meanings": [
-      "【名】雰国の計時単位。一分。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の計時単位。一分。"
+      }
     ],
     "append": ""
   },
   {
     "word": "秒",
-    "meanings": [
-      "【名】雰国の計時単位。一秒。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の計時単位。一秒。"
+      }
     ],
     "append": ""
   },
   {
     "word": "田",
-    "meanings": [
-      "【名】田んぼ。米を栽培する農場。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "田んぼ。米を栽培する農場。"
+      }
     ],
     "append": ""
   },
   {
     "word": "永",
-    "meanings": [
-      "【形】時間が長い。永い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "時間が長い。永い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "問",
-    "meanings": [
-      "【名】本来名詞が置かれる場所に置いてその部分を質問する。不特定疑問詞。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "本来名詞が置かれる場所に置いてその部分を質問する。不特定疑問詞。"
+      }
     ],
     "append": ""
   },
   {
     "word": "如",
-    "meanings": [
-      "【助】肯定文の末尾に置きYes/Noの二択で質問する。特定疑問詞。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助",
+        "explanation": "肯定文の末尾に置きYes/Noの二択で質問する。特定疑問詞。"
+      }
     ],
     "append": ""
   },
   {
     "word": "宗",
-    "meanings": [
-      "【動】神を信じる。信仰する。",
-      "【名】宗教。教え。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "神を信じる。信仰する。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "宗教。教え。"
+      }
     ],
     "append": ""
   },
   {
     "word": "暁宗",
-    "meanings": [
-      "【名】陽教。雰国で主に信仰されている宗教。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "陽教。雰国で主に信仰されている宗教。"
+      }
     ],
     "append": ""
   },
   {
     "word": "清",
-    "meanings": [
-      "【形】清潔な。綺麗な。清い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "清潔な。綺麗な。清い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "尿",
-    "meanings": [
-      "【名】尿。体外に排出される老廃物を含む液体。",
-      "【名】原子番号15(P)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "尿。体外に排出される老廃物を含む液体。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号15(P)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "石",
-    "meanings": [
-      "【名】石。岩。鉱物でできた固い素材。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "石。岩。鉱物でできた固い素材。"
+      }
     ],
     "append": ""
   },
   {
     "word": "瑠",
-    "meanings": [
-      "【名】ガラス。グラス。硝子。",
-      "【名】宝石。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ガラス。グラス。硝子。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "宝石。"
+      }
     ],
     "append": ""
   },
   {
     "word": "瑠瓶",
-    "meanings": [
-      "【名】ガラス瓶。ガラスボトル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ガラス瓶。ガラスボトル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "固瑠",
-    "meanings": [
-      "【名】ダイヤモンド。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ダイヤモンド。"
+      }
     ],
     "append": ""
   },
   {
     "word": "瑠丸",
-    "meanings": [
-      "【名】ガラス玉。ビー玉。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ガラス玉。ビー玉。"
+      }
     ],
     "append": ""
   },
   {
     "word": "目瑠",
-    "meanings": [
-      "【名】メガネ。グラス。眼鏡。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "メガネ。グラス。眼鏡。"
+      }
     ],
     "append": ""
   },
   {
     "word": "泡",
-    "meanings": [
-      "【名】泡。液体などの中で上に向かって浮上する空気の塊。気泡。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "泡。液体などの中で上に向かって浮上する空気の塊。気泡。"
+      }
     ],
     "append": ""
   },
   {
     "word": "箔",
-    "meanings": [
-      "【名】金属。鉱物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "金属。鉱物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "金",
-    "meanings": [
-      "【名】金。黄金に輝く金属。",
-      "【名】原子番号79(Au)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "金。黄金に輝く金属。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号79(Au)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "銀",
-    "meanings": [
-      "【名】銀。白銀に輝く金属。",
-      "【名】原子番号47(Ag)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "銀。白銀に輝く金属。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号47(Ag)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "銅",
-    "meanings": [
-      "【名】銅。赤茶色に輝く金属。",
-      "【名】原子番号29(Cu)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "銅。赤茶色に輝く金属。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号29(Cu)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "軽",
-    "meanings": [
-      "【形】軽い。重量が少ない。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "軽い。重量が少ない。"
+      }
     ],
     "append": ""
   },
   {
     "word": "礬",
-    "meanings": [
-      "【名】アルミニウム。いろいろな用途で使われる軽い金属。",
-      "【名】原子番号13(Al)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "アルミニウム。いろいろな用途で使われる軽い金属。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号13(Al)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "黄",
-    "meanings": [
-      "【形】黄色い。黄色の。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "黄色い。黄色の。"
+      }
     ],
     "append": ""
   },
   {
     "word": "硫",
-    "meanings": [
-      "【名】硫黄。硫化物の鉱石。",
-      "【名】原子番号16(S)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "硫黄。硫化物の鉱石。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号16(S)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "固",
-    "meanings": [
-      "【形】固い。強度が高い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "固い。強度が高い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "鉄",
-    "meanings": [
-      "【名】鉄。用途が幅広い固い金属。",
-      "【名】原子番号26(Fe)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "鉄。用途が幅広い固い金属。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号26(Fe)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "骨",
-    "meanings": [
-      "【名】骨。生物の体を支える固い構造物。",
-      "【名】原子番号20(Ca)の略称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "骨。生物の体を支える固い構造物。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号20(Ca)の略称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "病",
-    "meanings": [
-      "【名】病気。やまい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "病気。やまい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "痛",
-    "meanings": [
-      "【形】痛い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "痛い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "包",
-    "meanings": [
-      "【動】包む。蓋をする。密閉する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "包む。蓋をする。密閉する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "痘",
-    "meanings": [
-      "【名】できもの。体の表面にできる腫瘍。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "できもの。体の表面にできる腫瘍。"
+      }
     ],
     "append": ""
   },
   {
     "word": "乳痘",
-    "meanings": [
-      "【名】にきび。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "にきび。"
+      }
     ],
     "append": ""
   },
   {
     "word": "固痘",
-    "meanings": [
-      "【名】マメ。肉刺。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "マメ。肉刺。"
+      }
     ],
     "append": ""
   },
   {
     "word": "創",
-    "meanings": [
-      "【動】作られる。生み出される。できる。発生する。",
-      "【名】レティアの雰字略表記。列州。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "作られる。生み出される。できる。発生する。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "レティアの雰字略表記。列州。"
+      }
     ],
     "append": ""
   },
   {
     "word": "創人",
-    "meanings": [
-      "【名】レティア人。列州人。レティア州の人。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "レティア人。列州人。レティア州の人。"
+      }
     ],
     "append": ""
   },
   {
     "word": "笑",
-    "meanings": [
-      "【動】笑う。",
-      "【形】面白い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "笑う。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "面白い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "穏",
-    "meanings": [
-      "【動】落ち着く。ゆったりする。リラックスする。",
-      "【形】落ち着いた。ゆったりとした。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "落ち着く。ゆったりする。リラックスする。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "落ち着いた。ゆったりとした。"
+      }
     ],
     "append": ""
   },
   {
     "word": "医",
-    "meanings": [
-      "【名】医者。医師。お医者さん。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "医者。医師。お医者さん。"
+      }
     ],
     "append": ""
   },
   {
     "word": "薬",
-    "meanings": [
-      "【名】薬。薬剤。生薬。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "薬。薬剤。生薬。"
+      }
     ],
     "append": ""
   },
   {
     "word": "糞",
-    "meanings": [
-      "【名】糞。体外に排出される老廃物を含む固体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "糞。体外に排出される老廃物を含む固体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "通",
-    "meanings": [
-      "【動】通る。穴などを通過する。あるものに沿って移動する。",
-      "【副】いつも。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "通る。穴などを通過する。あるものに沿って移動する。"
+      },
+      {
+        "partOfSpeech": "副",
+        "explanation": "いつも。"
+      }
     ],
     "append": ""
   },
   {
     "word": "尻",
-    "meanings": [
-      "【名】尻。足の付根にある肉がたるんだ部分。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "尻。足の付根にある肉がたるんだ部分。"
+      }
     ],
     "append": ""
   },
   {
     "word": "歯",
-    "meanings": [
-      "【名】歯。口内にある食べ物を噛み砕くための組織。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "歯。口内にある食べ物を噛み砕くための組織。"
+      }
     ],
     "append": ""
   },
   {
     "word": "歯肉",
-    "meanings": [
-      "【名】歯茎。歯肉。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "歯茎。歯肉。"
+      }
     ],
     "append": ""
   },
   {
     "word": "食歯",
-    "meanings": [
-      "【名】虫歯。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "虫歯。"
+      }
     ],
     "append": ""
   },
   {
     "word": "糖",
-    "meanings": [
-      "【名】砂糖。糖分。",
-      "【形】甘い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "砂糖。糖分。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "甘い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "糖氷",
-    "meanings": [
-      "【名】アイスキャンディー。氷菓。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "アイスキャンディー。氷菓。"
+      }
     ],
     "append": ""
   },
   {
     "word": "糖丸",
-    "meanings": [
-      "【名】キャンディー。飴。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "キャンディー。飴。"
+      }
     ],
     "append": ""
   },
   {
     "word": "子",
-    "meanings": [
-      "【名】子供。小児。子息。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "子供。小児。子息。"
+      }
     ],
     "append": ""
   },
   {
     "word": "乳",
-    "meanings": [
-      "【名】乳。ミルク。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "乳。ミルク。"
+      }
     ],
     "append": ""
   },
   {
     "word": "乳氷",
-    "meanings": [
-      "【名】アイスクリーム。ソフトクリーム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "アイスクリーム。ソフトクリーム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "苦",
-    "meanings": [
-      "【形】苦い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "苦い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "鼻",
-    "meanings": [
-      "【名】鼻。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "鼻。"
+      }
     ],
     "append": ""
   },
   {
     "word": "鼻圧",
-    "meanings": [
-      "【名】鼻詰まり。",
-      "【動】鼻が詰まる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "鼻詰まり。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "鼻が詰まる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "香",
-    "meanings": [
-      "【動】嗅ぐ。匂いを感じる。",
-      "【名】匂い。香り。臭い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "嗅ぐ。匂いを感じる。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "匂い。香り。臭い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "止",
-    "meanings": [
-      "【動】止まる。止める。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "止まる。止める。"
+      }
     ],
     "append": ""
   },
   {
     "word": "重",
-    "meanings": [
-      "【形】重い。重量の大きい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "重い。重量の大きい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "甲",
-    "meanings": [
-      "【数】A[12]。こう。10[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "A[12]。こう。10[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "乙",
-    "meanings": [
-      "【数】B[12]。おつ。11[10]。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "B[12]。おつ。11[10]。"
+      }
     ],
     "append": ""
   },
   {
     "word": "美",
-    "meanings": [
-      "【形】美しい。綺麗な。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "美しい。綺麗な。"
+      }
     ],
     "append": ""
   },
   {
     "word": "美人",
-    "meanings": [
-      "【名】顔立ちが整った人。美女。イケメン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "顔立ちが整った人。美女。イケメン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "板",
-    "meanings": [
-      "【名】板。平らで薄い物体。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "板。平らで薄い物体。"
+      }
     ],
     "append": ""
   },
   {
     "word": "琥",
-    "meanings": [
-      "【名】樹脂。",
-      "【名】プラスチック/石油製品の略称。熟語になるときは基本的にこの字が使われる。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "樹脂。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "プラスチック/石油製品の略称。熟語になるときは基本的にこの字が使われる。"
+      }
     ],
     "append": ""
   },
   {
     "word": "油琥",
-    "meanings": [
-      "【名】プラスチック。石油材料の総称。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "プラスチック。石油材料の総称。"
+      }
     ],
     "append": ""
   },
   {
     "word": "琥巾",
-    "meanings": [
-      "【名】化学繊維の布。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "化学繊維の布。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粘",
-    "meanings": [
-      "【形】ドロドロの。ネバネバした。粘性の高い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "ドロドロの。ネバネバした。粘性の高い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粘琥",
-    "meanings": [
-      "【名】ゴム。ラバー。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ゴム。ラバー。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粘琥丸",
-    "meanings": [
-      "【名】ゴムボール。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ゴムボール。"
+      }
     ],
     "append": ""
   },
   {
     "word": "粘乳",
-    "meanings": [
-      "【名】チーズ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "チーズ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "炭粘琥",
-    "meanings": [
-      "【名】消しゴム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "消しゴム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "炭琥",
-    "meanings": [
-      "【名】消しゴム。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "消しゴム。"
+      }
     ],
     "append": ""
   },
   {
     "word": "瓶",
-    "meanings": [
-      "【名】ボトル。瓶。蓋ができる液体などを入れる容器。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ボトル。瓶。蓋ができる液体などを入れる容器。"
+      }
     ],
     "append": ""
   },
   {
     "word": "鉄瓶",
-    "meanings": [
-      "【名】スチール缶。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "スチール缶。"
+      }
     ],
     "append": ""
   },
   {
     "word": "礬瓶",
-    "meanings": [
-      "【名】アルミ缶。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "アルミ缶。"
+      }
     ],
     "append": ""
   },
   {
     "word": "琥瓶",
-    "meanings": [
-      "【名】ペットボトル。プラスチックボトル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ペットボトル。プラスチックボトル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "気瓶",
-    "meanings": [
-      "【名】スプレー缶。ガス缶。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "スプレー缶。ガス缶。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷瓶",
-    "meanings": [
-      "【名】電池。バッテリー。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電池。バッテリー。"
+      }
     ],
     "append": ""
   },
   {
     "word": "高",
-    "meanings": [
-      "【形】上に長い。高い。上にある。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "上に長い。高い。上にある。"
+      }
     ],
     "append": ""
   },
   {
     "word": "高家",
-    "meanings": [
-      "【名】ビル。高層ビル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ビル。高層ビル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "車",
-    "meanings": [
-      "【名】車。車輪がついた乗り物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "車。車輪がついた乗り物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "力車",
-    "meanings": [
-      "【名】自動車。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "自動車。"
+      }
     ],
     "append": ""
   },
   {
     "word": "油力車",
-    "meanings": [
-      "【名】ガソリン自動車。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ガソリン自動車。"
+      }
     ],
     "append": ""
   },
   {
     "word": "雷力車",
-    "meanings": [
-      "【名】電気自動車。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電気自動車。"
+      }
     ],
     "append": ""
   },
   {
     "word": "道車",
-    "meanings": [
-      "【名】鉄道。電車。汽車。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "鉄道。電車。汽車。"
+      }
     ],
     "append": ""
   },
   {
     "word": "衆車",
-    "meanings": [
-      "【名】乗合自動車。バス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "乗合自動車。バス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "機",
-    "meanings": [
-      "【名】機械。マシーン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "機械。マシーン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "飛機",
-    "meanings": [
-      "【名】飛行機。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "飛行機。"
+      }
     ],
     "append": ""
   },
   {
     "word": "戦飛機",
-    "meanings": [
-      "【名】戦闘機。戦うための飛行機。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "戦闘機。戦うための飛行機。"
+      }
     ],
     "append": ""
   },
   {
     "word": "回飛機",
-    "meanings": [
-      "【名】ヘリコプター。回転翼機。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ヘリコプター。回転翼機。"
+      }
     ],
     "append": ""
   },
   {
     "word": "熱機",
-    "meanings": [
-      "【名】ヒーター。暖房。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ヒーター。暖房。"
+      }
     ],
     "append": ""
   },
   {
     "word": "整気機",
-    "meanings": [
-      "【名】エアコン。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "エアコン。"
+      }
     ],
     "append": ""
   },
   {
     "word": "言機",
-    "meanings": [
-      "【名】電話。電話機。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電話。電話機。"
+      }
     ],
     "append": ""
   },
   {
     "word": "機言",
-    "meanings": [
-      "【動】電話する。通話する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "電話する。通話する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "机",
-    "meanings": [
-      "【名】机。デスク。テーブル。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "机。デスク。テーブル。"
+      }
     ],
     "append": ""
   },
   {
     "word": "椅",
-    "meanings": [
-      "【名】椅子。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "椅子。"
+      }
     ],
     "append": ""
   },
   {
     "word": "席",
-    "meanings": [
-      "【動】座る。台や椅子に腰掛ける。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "座る。台や椅子に腰掛ける。"
+      }
     ],
     "append": ""
   },
   {
     "word": "求",
-    "meanings": [
-      "【助動】～してください。指示。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "助動",
+        "explanation": "～してください。指示。"
+      }
     ],
     "append": ""
   },
   {
     "word": "帳",
-    "meanings": [
-      "【名】本。書籍。綴じた紙束。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "本。書籍。綴じた紙束。"
+      }
     ],
     "append": ""
   },
   {
     "word": "内帳",
-    "meanings": [
-      "【名】ファイル。紙をたくさん綴じておける用具。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ファイル。紙をたくさん綴じておける用具。"
+      }
     ],
     "append": ""
   },
   {
     "word": "字帳",
-    "meanings": [
-      "【名】字典。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "字典。"
+      }
     ],
     "append": ""
   },
   {
     "word": "言帳",
-    "meanings": [
-      "【名】辞典。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "辞典。"
+      }
     ],
     "append": ""
   },
   {
     "word": "楽",
-    "meanings": [
-      "【動】遊ぶ。楽しみながら活動する。",
-      "【形】楽しい。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "遊ぶ。楽しみながら活動する。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "楽しい。"
+      }
     ],
     "append": ""
   },
   {
     "word": "杯",
-    "meanings": [
-      "【名】コップ。飲み物などを入れる高さのある食器。グラス。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "コップ。飲み物などを入れる高さのある食器。グラス。"
+      }
     ],
     "append": ""
   },
   {
     "word": "杖",
-    "meanings": [
-      "【名】棒。スティック。細長く固い棒状のもの。",
-      "【名】一杖。大東州で使われる長さの単位。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "棒。スティック。細長く固い棒状のもの。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "一杖。大東州で使われる長さの単位。"
+      }
     ],
     "append": ""
   },
   {
     "word": "長杖",
-    "meanings": [
-      "【名】定規。ものさし。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "定規。ものさし。"
+      }
     ],
     "append": ""
   },
   {
     "word": "温",
-    "meanings": [
-      "【名】お湯。温かい水。",
-      "【形】温かい。温度が適度に高い。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "お湯。温かい水。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "温かい。温度が適度に高い。"
+      }
     ],
     "append": ""
   },
   {
     "word": "温杯",
-    "meanings": [
-      "【名】湯船。バスタブ。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "湯船。バスタブ。"
+      }
     ],
     "append": ""
   },
   {
     "word": "清整",
-    "meanings": [
-      "【名】風呂。体を洗い流し清潔に保つ場所。",
-      "【動】風呂に入る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "風呂。体を洗い流し清潔に保つ場所。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "風呂に入る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "音",
-    "meanings": [
-      "【名】音。サウンド。",
-      "【動】聞く。音が耳に入る。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "音。サウンド。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "聞く。音が耳に入る。"
+      }
     ],
     "append": ""
   },
   {
     "word": "音板",
-    "meanings": [
-      "【名】レコード。CD。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "レコード。CD。"
+      }
     ],
     "append": ""
   },
   {
     "word": "声",
-    "meanings": [
-      "【名】声。人の口から出る音。",
-      "【動】言う。喋る。呟く。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "声。人の口から出る音。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "言う。喋る。呟く。"
+      }
     ],
     "append": ""
   },
   {
     "word": "啊声",
-    "meanings": [
-      "【名】歓声。驚いた声。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "歓声。驚いた声。"
+      }
     ],
     "append": ""
   },
   {
     "word": "知",
-    "meanings": [
-      "【動】知る。学ぶ。理解する。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "知る。学ぶ。理解する。"
+      }
     ],
     "append": ""
   },
   {
     "word": "報",
-    "meanings": [
-      "【動】知らせる。伝える。",
-      "【動】教える。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "知らせる。伝える。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "教える。"
+      }
     ],
     "append": ""
   },
   {
     "word": "報紙",
-    "meanings": [
-      "【名】新聞。新聞紙。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "新聞。新聞紙。"
+      }
     ],
     "append": ""
   },
   {
     "word": "世報",
-    "meanings": [
-      "【名】ニュース。報道。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ニュース。報道。"
+      }
     ],
     "append": ""
   },
   {
     "word": "船",
-    "meanings": [
-      "【名】船。水上を移動する乗り物。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "船。水上を移動する乗り物。"
+      }
     ],
     "append": ""
   },
   {
     "word": "衣",
-    "meanings": [
-      "【名】服。衣服。",
-      "【名】何かを包むもの。袋。"
+    "processedMeanings": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "服。衣服。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "何かを包むもの。袋。"
+      }
     ],
     "append": ""
   }

@@ -17,7 +17,7 @@ export const getProcessedWords = (dicArray: Word[]) => {
       });
     return {
       word: v.word,
-      meanings,
+      processedMeanings,
       append: v.append,
     };
   });
